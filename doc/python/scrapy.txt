@@ -1,0 +1,2 @@
+scrapy startproject xxx
+scrapy crawl xxx -o xxx.json -t json
