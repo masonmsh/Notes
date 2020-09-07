@@ -1,3 +1,2 @@
 # Notes
-## ml
-machine learning  
+notes
