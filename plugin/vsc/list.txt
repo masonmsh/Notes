@@ -1,0 +1,6 @@
+Bracket Pair Colorizer 2
+Chinese (Simplified) Language Pack for Visual Studio Code
+Markdown All in One
+Python
+Rainbow CSV
+vscode-icons
