@@ -1,6 +1,6 @@
 ## Welcome
 ***
-[blog](https://masonmsh.github.io/ "冷香榭")
+[home](https://masonmsh.github.io/ "冷香榭")
 
 - [Welcome](#welcome)
 - [Linux](#linux)
@@ -73,12 +73,12 @@ du -sh --max-depth=1
 #### 7-zip
 [批量操作.bat](https://github.com/masonmsh/Notes/blob/master/doc/bat/7zip%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C.txt "7-zip")
 #### 文件操作
-[fileopt.py](https://github.com/masonmsh/Notes/blob/master/doc/bat/fileopt.py "fileopt")
+[fileopt.py](https://github.com/masonmsh/Notes/blob/master/doc/bat/fileopt.py "file")
 ## Python
 #### pip
 ##### pip配置文件
-[pip.conf](https://github.com/masonmsh/Notes/blob/master/doc/python/pip.ini "conf")  
-[pip mirror](https://github.com/masonmsh/Notes/blob/master/doc/python/pip%20mirror.txt "mirror")
+[pip.conf](https://github.com/masonmsh/Notes/blob/master/doc/python/pip.ini "pip")  
+[pip mirror](https://github.com/masonmsh/Notes/blob/master/doc/python/pip%20mirror.txt "pip")
 ##### pip配置文件位置
 ```
 pip -v config list
@@ -170,14 +170,14 @@ CUDA_VISIBLE_DEVICES=0
 ```
 ## Aria2
 #### aria2配置文件
-[aria2.conf](https://github.com/masonmsh/Notes/blob/master/aria2/aria2.conf "conf")
+[aria2.conf](https://github.com/masonmsh/Notes/blob/master/aria2/aria2.conf "aria2")
 #### 运行
 ```
 aria2c.exe --conf-path=aria2.conf
 ```
-[run.bat](https://github.com/masonmsh/Notes/blob/master/aria2/run.bat "run")
+[run.bat](https://github.com/masonmsh/Notes/blob/master/aria2/run.bat "aria2")
 ## VSCode
 #### vsc设置
-[setting.json](https://github.com/masonmsh/Notes/blob/master/plugin/vsc/setting.json "json")  
-[list](https://github.com/masonmsh/Notes/blob/master/plugin/vsc/list.txt "list")
+[setting.json](https://github.com/masonmsh/Notes/blob/master/plugin/vsc/setting.json "vsc")  
+[list](https://github.com/masonmsh/Notes/blob/master/plugin/vsc/list.txt "vsc")
 
