@@ -21,6 +21,7 @@
       - [pip配置文件位置](#pip配置文件位置)
     - [基本数据类型](#基本数据类型)
       - [遍历字典](#遍历字典)
+      - [模拟列表广播](#模拟列表广播)
     - [Pandas](#pandas)
       - [统计每一行元素的个数](#统计每一行元素的个数)
     - [Numpy](#numpy)
@@ -107,6 +108,12 @@ for kv in a.items():
 ### 遍历 key value
 for key,value in a.items():
     print(key+':'+value)
+```
+##### 模拟列表广播
+```python
+a = [49, 51, 53, 56]
+# a中所有数字减13
+a = list(map(lambda x: x - 13, a)) 
 ```
 #### Pandas
 ##### 统计每一行元素的个数
