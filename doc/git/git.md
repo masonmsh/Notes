@@ -163,7 +163,7 @@ git tag <tagname> <commit-id>
 ```
 ### 删除标签
 ```
-it tag -d <tagname>
+git tag -d <tagname>
 git push origin :refs/tags/<tagname>
 ```
 ### 推送标签
